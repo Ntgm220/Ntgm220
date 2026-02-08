@@ -1,4 +1,4 @@
-![Alt text for the image](Images/a3ftzqi7ide71.png)
+![Banner]([Images/a3ftzqi7ide71.png](https://estintecedu-my.sharepoint.com/:i:/g/personal/1119442_est_intec_edu_do/IQDsRl1qSD07QoYm-ULzKDXYAYmXN-x3toI2kBc3fH2jKwM?e=UpLcUg))
 
 # 💫 About Me:
 💻 Backend Developer experienced in web, desktop, and relational databases.<br>🙏 Seeking to build robust, innovative systems with real-world impact.<br>🕹️ Gaming geek.<br>📍 DR-based developer.
