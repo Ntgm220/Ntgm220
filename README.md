@@ -1,4 +1,5 @@
 ![Alt text for the image](Images/7862bb3aa69a428d80f87bf208beb43e.jpg)
+<img src="7862bb3aa69a428d80f87bf208beb43e.jpg" width="50%">
 
 
 # 💫 About Me:
