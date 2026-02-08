@@ -1,5 +1,9 @@
 ![Banner]([Images/a3ftzqi7ide71.png](https://estintecedu-my.sharepoint.com/:i:/g/personal/1119442_est_intec_edu_do/IQDsRl1qSD07QoYm-ULzKDXYAYmXN-x3toI2kBc3fH2jKwM?e=UpLcUg))
 
+<p align="center">
+  <img src="[https://example.com/mi-banner.png](https://estintecedu-my.sharepoint.com/:i:/g/personal/1119442_est_intec_edu_do/IQDsRl1qSD07QoYm-ULzKDXYAYmXN-x3toI2kBc3fH2jKwM?e=UpLcUg)" alt="Banner" width="100%" />
+</p>
+
 # 💫 About Me:
 💻 Backend Developer experienced in web, desktop, and relational databases.<br>🙏 Seeking to build robust, innovative systems with real-world impact.<br>🕹️ Gaming geek.<br>📍 DR-based developer.
 
