@@ -1,3 +1,6 @@
+![Alt text for the image](Images/7862bb3aa69a428d80f87bf208beb43e.jpg)
+
+
 # 💫 About Me:
 💻 Backend Developer experienced in web, desktop, and relational databases.<br>🙏 Seeking to build robust, innovative systems with real-world impact.<br>🕹️ Gaming geek.<br>📍 DR-based developer.
 
